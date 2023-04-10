@@ -1,5 +1,3 @@
 # Crowdfunding-Excel-Challenge
-Using excel to analyze and visualize crowdfunding data
+Using excel to analyze and visualize crowdfunding data from 1000 previous crowdfunding projects, to uncover any hiddens trends, insights, and analysis. 
 
-## First Steps
-I have always enjoyed excel and been skilled at using excel. I enjoy analyzing and breaking down data in excel and performing all the amazing tasks that Excel can do.
