@@ -23,7 +23,10 @@ b.	Due to the small size of campaigns with goals between $10,000 & $50,000, I be
 Statistical Analysis Questions
 
 1.	Use your data to determine whether the mean or the median better summarizes the data. 
+
 a.	I believe that the mean better summarizes the data due to the amount of high dollar donation or pledge campaign amounts. This better reflects how many campaigns have high pledged amounts. 
+
 2.	Use your data to determine whether if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
 a.	There is more variability in successful campaigns, I believe this does make sense because these campaigns were successful and higher dollar pledge amounts or outliers have a higher probability of showing in successful campaigns then failed campaigns. There is also roughly 200 more successful campaigns versus failed, which means there is a higher probability of Variance in the successful campaigns due to the varying and high pledge goals for certain campaigns. 
 
